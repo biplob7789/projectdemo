@@ -1,0 +1,101 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+/* header*/
+.jon-header{
+    padding: 39px 74px;
+}
+.jon-header img{
+    width: 64px;
+}
+.navbar-bran{
+    color: blueviolet;
+    font-size: 50px;
+}
+
+
+.navbar-light .navbar-brand {
+
+    color: rgba(244, 6, 6, 0.9);
+    font-size: 46px;
+    padding: 0px 22px;
+
+}
+.card{
+   
+    box-shadow: 4px 6px 30px 0.4;
+}
+/* banner*/
+.banner-section{
+    background: url(.//img/main-banner.jpg) no-repeat center,center;
+    padding: 220px 0;
+    background-size: cover;
+   
+}
+/* vide0o-content*/
+.video-content{
+    background: url(.//img/Mujib-copy.jpg) no-repeat center,center;
+    padding: 220px 0;
+    background-size: cover;
+   
+}
+.video-content h1{
+    color: #71db07;
+}
+.btn-success {
+    color: #fff;
+    background-color: #8c4f4f;
+    border-color: #198768;
+    padding: 17px 30px;
+}
+.product{
+    text-align: center;
+background: #ddd;
+margin-bottom: 34px;
+}
+.product span{
+    color: red;
+    font-size: 42px;
+    padding: 20px 21px;
+}
+.mbr-banner img{
+  
+max-width: 100%;
+}
+.mbr-banner ul{
+    margin-top: 40px;
+}
+
+.btn-biplob{
+    padding: 11px 18px;
+    font-size: 30px;
+    margin-top: 40px;
+}
+.coustomer-section{
+    background: rgb(226, 209, 209);
+}
+.Customer-feed{
+    background-color: rgb(240, 235, 235);
+}
+.mobile-img{
+    padding: 34px 200px;
+}
+.card-feedback{
+    background-color: red;
+    padding-inline-end: 35px 45px;
+    margin-top: 150px;
+    
+}
+.cash-section{
+    background-color: rgb(185, 179, 179);
+    padding: 30px 40px;
+    margin-top: 130px;
+}
+/* footer*/
+.footer-section{
+    background-color: rgb(53, 53, 78);
+}
+.footer-section h2{
+    color: whitesmoke;
+    padding: 60px 10px;
+}
